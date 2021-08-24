@@ -6,7 +6,9 @@ I'm web and mobile developer since 2013 my work is focused in the user experienc
 - **MT-SISTEMAS** De Mar/2013 a Ago/2013
 - **UNIVAG** De Set/2013 a Ago/2015
 - **FREELANCER** De Set/2015 a Ago/2016
-- **FAMATO/SINC-TI** De Ago/2016 a Hoje(today)
+- **FAMATO/SINC-TI** De Ago/2016 a Fev/2021
+- **UDS Tecnologia** De Fev/2021 a Ago/2021
+- **CWi** De Ago/2021 a Hoje
 
 
 ### My domains
